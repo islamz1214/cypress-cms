@@ -5,7 +5,12 @@ Quick cypress tutorial.
 Simple test that checks error message when login is invalid for website.
 
 ```bash
-npm install
+npx cypress run
+```
+
+or to run from dashboard
+
+```bash
 npx cypress open
 ```
 
