@@ -2,6 +2,10 @@
 
 Quick cypress tutorial. 
 
+```bash
+npm install cypress
+```
+
 Simple test that checks error message when login is invalid for website.
 
 ```bash
